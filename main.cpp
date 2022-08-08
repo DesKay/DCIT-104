@@ -1,3 +1,5 @@
+//Finding the average of even numbers less than a number(1000)
+
 #include <iostream>
 
 using namespace std;
