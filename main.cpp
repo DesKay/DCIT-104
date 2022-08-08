@@ -1,3 +1,5 @@
+//Write a program that produces the sum of all prime numbers less than a given number.
+
 #include <bits/stdc++.h>
 using namespace std;
 
