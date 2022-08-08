@@ -26,6 +26,7 @@ int sumOfPrimes(int n)
 int main()
 {
     int n = 100;
+    //where n is the last number on the range
     cout <<sumOfPrimes(n);
     return 0;
 }
