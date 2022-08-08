@@ -1,3 +1,5 @@
+//Write a program that produces the average of all even numbers less than a given number(1000)
+
 #include <iostream>
 
 using namespace std;
